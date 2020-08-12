@@ -557,5 +557,7 @@ input[type=submit]:focus {
     #menu {
         height: 158px;
     }
-
+.header {
+        width: 200px;
+    }
 }
